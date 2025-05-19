@@ -71,6 +71,14 @@
   - Estudou os instrumentos BDI e BAI e verificou exigências para sua aplicação.  
   - Concluiu, junto a Carlos, pela inviabilidade da proposta devido à ausência de profissional qualificado para interpretar os dados.
 
+- **Camily**:  
+  - Acompanhou o processo de avaliação da proposta metodológica.  
+  - Auxiliou na organização das referências teóricas relacionadas aos instrumentos BDI e BAI.
+
+- **Gustavo**:  
+  - Participou das discussões sobre viabilidade técnica da aplicação dos questionários.  
+  - Colaborou na análise dos critérios de validação científica dos instrumentos e nas alternativas à metodologia.
+
 ---
 
 ### 📅 Semana 5 – [13 a 15/05]
