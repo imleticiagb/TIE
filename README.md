@@ -4,16 +4,17 @@
 **Objetivo:** Discussão inicial sobre temas e áreas do projeto.
 
 - **Gustavo**:  
-  - Pesquisei e propus possíveis temas para o trabalho.
+  - Pesquisou e propôs possíveis temas para o trabalho.
 
 - **Camily**:  
-  - Sugeri áreas de pesquisa e possíveis temas.
+  - Sugeriu áreas de pesquisa e possíveis temas.
 
 - **Leticia**:  
-  - Propus uma discussão e votação para escolha do tema e da abordagem do projeto (extensão, cultura, pesquisa, ensino, etc).
+  - Propôs uma discussão e votação para escolha do tema e da abordagem do projeto (extensão, cultura, pesquisa, ensino, etc).
 
 - **Carlos**:  
-  - Introduzi ideias de temas quanto a ação de extensão, discuti sobre a possibilidade de outros projetos.
+  - Introduziu ideias de temas quanto a ação de extensão.
+  - Discutiu sobre a possibilidade de outros projetos.
 
 ---
 
@@ -21,16 +22,20 @@
 **Objetivo:** Escolha do tema e amadurecimento do escopo.
 
 - **Gustavo**:  
-  - Participei das reuniões para determinar o tema e fiz pesquisas sobre o que estava sendo proposto.
+  - Participou das reuniões para determinar o tema.
+  - Fez pesquisas sobre o que estava sendo proposto.
 
 - **Camily**:  
-  - Participei das reuniões acerca das decisões a respeito do escopo do trabalho.
+  - Participou das reuniões acerca das decisões a respeito do escopo do trabalho.
 
 - **Leticia**:  
-  - Li os trabalhos indicados pelo professor para amadurecer o nosso tema e convoquei uma reunião com os demais membros para que pudéssemos alinhar entre nós quais as funções que cada um iria desempenhar no projeto.
+  - Leu os trabalhos indicados pelo professor para amadurecer o tema.
+  - Convocou uma reunião com os demais membros para que pudessem alinhar entre todos quais as funções que cada um iria desempenhar no projeto.
 
 - **Carlos**:  
-  - Pesquisei trabalhos para justificar nosso problema, escrevi parte do modelo inicial do projeto, até então sobre extensão da terapia e redigi parte de um documento inicial com as informações básicas para nortear o grupo.
+  - Pesquisou trabalhos para justificar o problema do trabalho.
+  - Escreveu parte do modelo inicial do projeto, até então sobre extensão da terapia.
+  - Redigiu parte de um documento inicial com as informações básicas para nortear o grupo.
 
 ### 📅 Semana 3 – [29/04 a 01/05]
 **Objetivo:** Finalizar o planejamento inicial e consolidar o escopo do projeto.
