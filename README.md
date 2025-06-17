@@ -101,3 +101,52 @@
   - Fez ajustes finais na divisão das responsabilidades e revisão do escopo do projeto.
 
 ---
+
+### 📅 Semana 6 e 7 – [20 a 29/05]  
+**Objetivo:** Aguardar os dados da psicóloga para prosseguir com o desenvolvimento.
+
+- **Gustavo, Camily, Leticia e Carlos**:  
+  - Permaneceram aguardando o envio dos dados pela psicóloga para dar continuidade ao desenvolvimento da pesquisa.
+
+---
+
+### 📅 Semana 8 – [03 a 05/06]  
+**Objetivo:** Início da reformulação da metodologia com base nos dados recebidos.
+
+- **Camily**:  
+  - Conseguiu obter os dados com a psicóloga.  
+  - Participou da revisão do texto e ajustes na metodologia.
+
+- **Leticia**:  
+  - Iniciou, junto a Carlos, a reescrita da seção de coleta de dados, incorporando as correções apontadas pelo professor.  
+
+- **Carlos**:  
+  - Trabalhou na reestruturação da parte de coleta, alinhando-a às orientações do professor e aos dados recebidos.  
+
+- **Gustavo**:  
+  - Auxiliou na revisão geral do texto e na adequação da metodologia à nova realidade dos dados disponíveis.
+
+---
+
+### 📅 Semana 9 – [10 a 12/06]  
+**Objetivo:** Refinamento e revisão do texto.
+
+- **Gustavo, Camily, Leticia e Carlos**:  
+  - Realizaram ajustes no texto do projeto.  
+  - Fizeram uma revisão completa dos conteúdos, alinhando todos os tópicos e buscando a consistência do material.
+
+---
+
+### 📅 Semana 10 – [17 a 19/06]  
+**Objetivo:** Mais correções do documento e análise dos desafios metodológicos.
+
+- **Carlos**:  
+  - Ficou responsável pela redação dos textos do projeto.
+
+- **Camily**:  
+  - Realizou a revisão detalhada do texto produzido por Carlos.
+
+- **Gustavo e Leticia**:  
+  - Focaram em buscar alternativas e soluções metodológicas para lidar com o volume extremamente reduzido de dados recebidos da psicóloga, tentando garantir a viabilidade da análise e dos resultados.
+
+---
